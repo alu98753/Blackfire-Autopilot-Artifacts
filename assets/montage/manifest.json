@@ -1,0 +1,7 @@
+{
+  "generator_version": 1,
+  "source_hash": null,
+  "source_count": 0,
+  "files": [],
+  "note": "Placeholder manifest. Run tools/build_montage.py with the private Blackfire-CV-Autopilot templates directory to generate cached public montage assets."
+}
